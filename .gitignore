@@ -1,0 +1,6 @@
+.idea
+
+#Temporary files of Vim
+*.swp
+*~
+
